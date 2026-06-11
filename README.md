@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a Data Scientist and Digital Business student at Foreign Trade University,
+I am a Digital Business student at Foreign Trade University,
 interested in turning data, machine learning, and AI into practical business
 decisions.
 
